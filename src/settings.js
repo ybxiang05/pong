@@ -5,5 +5,5 @@ export const KEYS = {
   z: "z", //p1 down
   up: "ArrowUp", //p2 up
   down: "ArrowDown", //p2 down
-  spacebar: " " //pause
+  spaceBar: " " //pause
 };
